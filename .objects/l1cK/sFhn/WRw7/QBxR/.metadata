@@ -1,0 +1,13 @@
+﻿{
+  "Id": "QBxRk7YVA0SNARcx5Rmo5Q",
+  "Reference": "IJXc_hDhiEi82vELgaCdQA/QBxRk7YVA0SNARcx5Rmo5Q",
+  "ParentRef": "IJXc_hDhiEi82vELgaCdQA/WRw7j8BenU6XA2kDSao4Zg",
+  "Name": "Login",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-09-01T05:44:37.6967477Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-01T05:44:37.6967477Z"
+}

@@ -1,0 +1,80 @@
+{
+  "name": "BlankProcess50",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UibankLibInfo": "[1.0.2]",
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.2]",
+    "UiPath.System.Activities": "[22.4.1]",
+    "UiPath.Testing.Activities": "[22.4.3]",
+    "UiPath.UIAutomation.Activities": "[22.4.5]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.4.3.0",
+  "projectVersion": "1.0.115797680",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8a756a1a-9c65-4715-96d1-5ee3f375f982",
+        "dataVariationFilePath": ".variations\\QCxKU6KDKASdfMoa-Data (1)_Sheet1.json",
+        "testCaseType": "TestCase",
+        "fileName": "TC_AddingTwoNumbers.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "cdcdfe84-f467-43e6-a8f5-3d84ce64eca6",
+        "testCaseType": "TestCase",
+        "fileName": "TC_AcmeLogin.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "efba57eb-44b4-46ca-89d0-a66cb2ed4558",
+        "testCaseType": "TestCase",
+        "fileName": "TC_NavigateDownloadReport.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "a4abcaed-392b-4810-9869-cd22138bc1ef",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

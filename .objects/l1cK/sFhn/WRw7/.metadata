@@ -1,0 +1,12 @@
+﻿{
+  "Id": "WRw7j8BenU6XA2kDSao4Zg",
+  "Reference": "IJXc_hDhiEi82vELgaCdQA/WRw7j8BenU6XA2kDSao4Zg",
+  "ParentRef": "IJXc_hDhiEi82vELgaCdQA/sFhnsis_t0qvC6ZE0dCIwg",
+  "Name": "ACME login Page",
+  "Type": "Screen",
+  "Created": "2022-09-01T05:44:37.2717438Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-01T05:44:37.2717438Z"
+}
